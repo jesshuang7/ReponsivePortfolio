@@ -1,8 +1,8 @@
 # ResponsivePorfolio_Hwk02
 
-Explore the [Project Page](https://jesshuang7.github.io/Reponsive_Portfolio_HW2/)
+Explore the [Project Page](https://github.com/jesshuang7/Reponsive_Portfolio_HW2)
 
-View the [Github-pages]()
+View the [Github-pages](https://jesshuang7.github.io/Reponsive_Portfolio_HW2/)
 
 ## Table of Contents
 
@@ -20,18 +20,16 @@ View the [Github-pages]()
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-The focus of this project was to utilize the [Bootstrap Framework](https://getbootstrap.com/) as a base to create a functional, deployed application. The project was to create a working portfolio using Bootstap's grid system while incorporating personal information and images for viewing pleasure. 
-
-![Project Gif](assets/images/gif.gif)
+The focus of this project was to utilize the [Bootstrap Framework](https://getbootstrap.com/) as a base to create a mobile responsive portfolio.
 
 ### HTML:
-* [index.html](https://github.com/Alischrec/ResponsivePorfolio_Hwk02/blob/master/index.html)
-* [contact.html](https://github.com/Alischrec/ResponsivePorfolio_Hwk02/blob/master/contact.html)
-* [portfolio.html](https://github.com/Alischrec/ResponsivePorfolio_Hwk02/blob/master/portfolio.html)
+* [index.html](https://github.com/jesshuang7/Reponsive_Portfolio_HW2/blob/master/contact.html)
+* [contact.html](https://github.com/jesshuang7/Reponsive_Portfolio_HW2/blob/master/contact.html)
+* [portfolio.html](https://github.com/jesshuang7/Reponsive_Portfolio_HW2/blob/master/portfolio.html)
 
 ### Assets:
-* [style.css](https://github.com/Alischrec/ResponsivePorfolio_Hwk02/blob/master/assets/css/style.css)
-* [images](https://github.com/Alischrec/ResponsivePorfolio_Hwk02/tree/master/assets/images)
+* [style.css](https://github.com/jesshuang7/Reponsive_Portfolio_HW2/blob/master/Assets/css/style.css)
+* [images](https://github.com/jesshuang7/Reponsive_Portfolio_HW2/tree/master/Assets/Images)
 
 ### Built With:
 * This app is build upon [Bootstrap Framework](https://getbootstrap.com/)
