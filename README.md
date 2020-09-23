@@ -1,4 +1,4 @@
-# ResponsivePorfolio_Hwk02
+# ResponsivePorfolio
 
 Explore the [Project Page](https://github.com/jesshuang7/Reponsive_Portfolio)
 
