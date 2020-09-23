@@ -43,7 +43,7 @@ None.
 ### Installation:
 1. Clone the Repository:
 ```sh
-git clone git@github.com:jesshuang7/Responsive_Porfolio_HW2.git
+git clone git@github.com:jesshuang7/Responsive_Porfolio.git
 ```
 
 ## Roadmap:
