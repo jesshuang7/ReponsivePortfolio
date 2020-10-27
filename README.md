@@ -1,8 +1,8 @@
 # ResponsivePorfolio
 
-Explore the [Project Page](https://github.com/jesshuang7/Reponsive_Portfolio)
+Explore the [Project Page](https://github.com/jesshuang7/ReponsivePortfolio)
 
-View the [Github-pages](https://jesshuang7.github.io/Reponsive_Portfolio)
+View the [Github-pages](https://jesshuang7.github.io/ReponsivePortfolio)
 
 ## Table of Contents
 
@@ -23,13 +23,13 @@ View the [Github-pages](https://jesshuang7.github.io/Reponsive_Portfolio)
 The focus of this project was to utilize the [Bootstrap Framework](https://getbootstrap.com/) as a base to create a mobile responsive portfolio.
 
 ### HTML:
-* [index.html](https://github.com/jesshuang7/Reponsive_Portfolio/blob/master/contact.html)
-* [contact.html](https://github.com/jesshuang7/Reponsive_Portfolio/blob/master/contact.html)
-* [portfolio.html](https://github.com/jesshuang7/Reponsive_Portfolio/blob/master/portfolio.html)
+* [index.html](https://github.com/jesshuang7/ReponsivePortfolio/blob/master/contact.html)
+* [contact.html](https://github.com/jesshuang7/ReponsivePortfolio/blob/master/contact.html)
+* [portfolio.html](https://github.com/jesshuang7/ReponsivePortfolio/blob/master/portfolio.html)
 
 ### Assets:
-* [style.css](https://github.com/jesshuang7/Reponsive_Portfolio/blob/master/Assets/css/style.css)
-* [images](https://github.com/jesshuang7/Reponsive_Portfolio/tree/master/Assets/Images)
+* [style.css](https://github.com/jesshuang7/ReponsivePortfolio/blob/master/Assets/css/style.css)
+* [images](https://github.com/jesshuang7/ReponsivePortfolio/tree/master/Assets/Images)
 
 ### Built With:
 * This app is build upon [Bootstrap Framework](https://getbootstrap.com/)
@@ -47,7 +47,7 @@ git clone git@github.com:jesshuang7/Responsive_Porfolio.git
 ```
 
 ## Roadmap:
-Currently no known issues, but track track [open issues](https://github.com/jesshuang7/Reponsive_Portfolio/issues ) for proposed features (and known issues) in the future.
+Currently no known issues, but track track [open issues](https://github.com/jesshuang7/ReponsivePortfolio/issues ) for proposed features (and known issues) in the future.
 
 
 ## Contributing:
@@ -86,7 +86,7 @@ SOFTWARE.
 ## Contact:
 Jessica Huang - tzunuhuang@gmail.com
 
-Project Link: [https://github.com/jesshuang7/Reponsive_Portfolio](https://github.com/jesshuang7/Reponsive_Portfolio)
+Project Link: [https://github.com/jesshuang7/ReponsivePortfolio](https://github.com/jesshuang7/ReponsivePortfolio)
 
 ## Acknowledgements: 
 * University of Washington Coding Bootcamp for providing me with the skills and knowledge to create this project. 
