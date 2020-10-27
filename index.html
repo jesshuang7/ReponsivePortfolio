@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link rel="stylesheet" href="./Assets/css/style.css">
     <title>About me</title>
 </head>
@@ -45,8 +46,8 @@
 
 
 <!-- Start Container-->
-<div class="container col-md-8 col-sm-10 col-xs-8 ml-4 mt-5 mb-5">
-  <div class="col-md-9 bg-light pt-2 pl-5 pr-5 pb-4">
+<div class="intro-container container col-md-10 col-sm-10 col-xs-8 ml-4 mt-5 mb-5">
+  <div class="col-md-9 bg-light pt-2 pl-5 pr-5 pb-5">
     <!-- About me & Underline -->
     <div class="row">
       <h1>About Me</h1>
@@ -55,18 +56,38 @@
       <p class="underline"></p>
     </div>
 
+    <!-- Name Card -->
+    <div class="card float-left mr-5" style="width: 15rem;">
+      <img src="./Assets/Images/jessica.jpeg" class="card-img-top" alt="Jessica's Headshot">
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item"><i class="fas fa-envelope"></i> tzunuhuang@gmail.com</li>
+        <li class="list-group-item"><i class="fas fa-mobile-alt"></i> 206-636-8108</li>
+        <!-- <li class="list-group-item"><a href="https://www.linkedin.com/in/tzunu-jessica/"><img src="Assets/Images/linkedin.png" alt="linkedin-image" width="10%"></a></li> -->
+        <!-- <li class="list-group-item"><a href="https://github.com/jesshuang7"><img src="Assets/Images/github.png" alt="github-image" width="20%"></a></li> -->
+      </ul>
+      <div class="card-body">
+        <a href="https://www.linkedin.com/in/tzunu-jessica/" class="card-link"><img src="Assets/Images/linkedin.png" alt="linkedin-image" width="15%"></a>
+        <a href="https://github.com/jesshuang7" class="card-link"><img src="Assets/Images/github.png" alt="github-image" width="30%"></a>
+        <a href="https://github.com/jesshuang7" class="card-link">resume</a>
+      </div>
+    </div>
+    <br>
     <!-- Profile picture & Introduction -->
     <div class="row">
       <section>
-        <img src="./Assets/Images/jessica.jpeg" alt="Jessica's Headshot" class="float-left mr-3" width="35%">
-        <p class>Jessica was born and raised in Taiwan and came to the US when she was sixteen. She obtained her International Baccalaureate in a high school in New York and Bachelor of Science in Chemical Engineering and Bachelor of Arts in Dance at the University of Washington. 
+        <!-- <img src="./Assets/Images/jessica.jpeg" alt="Jessica's Headshot" class="float-left mr-3" width="35%"> -->
+        <p class="intro">Jessica was born and raised in Taiwan and came to the US when she was sixteen years old. She obtained her International Baccalaureate in a high school in New York and Bachelor of Science in Chemical Engineering and Bachelor of Arts in Dance at the University of Washington. 
         </p>
-        <p>She is now learning programming for the very first time through UW full-stack boot camp. Even though she feels drowning most of the time, she likes to take on challenges and is excited to learn and transform during this journey. Hopefully she will be proud of herself at the end of the day.
-        </p>      
+        <!-- <p class="intro">She is curently taking Full-Stack coding boot camp from the University of Washington. She likes to challenge her comfort zone and is excited to learn and transform during this novel journey.
+        </p>       -->
       </section>
     </div>
     <div class="row pt-4">
-      <p>Besides dancing, as you can already tell, Jessica also loves traveling, cooking, reading, and singing. She loves haning out with friends and family. She recently falls in love with hiking here at the Pacific Northwest.</p>
+      <p class="intro">She is curently taking Full-Stack coding boot camp from the University of Washington. She likes to challenge her comfort zone and is excited to learn and transform during this novel journey.
+      </p>
+    </div>
+    <div class="row pt-4">
+      <p class="intro">Besides dancing, as you can already tell, Jessica also loves traveling, cooking, reading, and singing. She loves haning out with friends and family. She recently falls in love with hiking here at the Pacific Northwest.</p>
     </div>
   </div>
 </div>
