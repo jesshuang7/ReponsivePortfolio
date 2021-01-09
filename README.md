@@ -22,6 +22,8 @@ View the [Github-pages](https://jesshuang7.github.io/ReponsivePortfolio)
 ## About the Project:
 The focus of this project was to utilize the [Bootstrap Framework](https://getbootstrap.com/) as a base to create a mobile responsive portfolio.
 
+![Project Gif](Assets/Images/portfolio.gif)
+
 ### HTML:
 * [index.html](https://github.com/jesshuang7/ReponsivePortfolio/blob/master/contact.html)
 * [contact.html](https://github.com/jesshuang7/ReponsivePortfolio/blob/master/contact.html)
